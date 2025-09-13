@@ -228,7 +228,7 @@ style.textContent = `
     }
     .users {
         position: relative;
-        top: 300px;
+        top: 200px;
         left: 40px;
         width: 500px;
         
