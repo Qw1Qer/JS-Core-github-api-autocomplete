@@ -229,7 +229,7 @@ style.textContent = `
     .users {
         position: absolute;
         top: 300px;
-        left: 310px;
+        left: 30px;
         width: 500px;
         
     }
