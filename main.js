@@ -227,9 +227,9 @@ style.textContent = `
         box-sizing: border-box;
     }
     .users {
-        position: absolute;
+        position: relative;
         top: 300px;
-        left: 30px;
+        left: 40px;
         width: 500px;
         
     }
